@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/onlinemall?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: 1877108
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+server:
+  port: 8080
